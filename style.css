@@ -1,0 +1,16 @@
+.photo {
+    display: flex;
+    align-self: center;
+    margin: 0 auto;
+
+}
+
+img {
+    width: 350px;
+    border-radius: 250px;
+    margin: 0 auto;
+}
+
+h1, h3, div {
+    text-align: center;
+}
